@@ -1,0 +1,8 @@
+2020-05-06 15:48:39,220 - INFO: add_ntp:success
+2020-05-06 15:48:39,248 - INFO: add_ntp_no_server:{"result":"error","errcode":1492067287,"errmsg":"The parameter server in method system.ntp.add can not be null."}
+2020-05-06 15:48:39,280 - INFO: add_ntp_no_status:{"result":"error","errcode":1492066497,"errmsg":"NTP service address has already existed."}
+2020-05-06 15:48:39,312 - INFO: add_ntp_no_prefer:{"result":"error","errcode":1492066497,"errmsg":"NTP service address has already existed."}
+2020-05-06 15:48:39,344 - INFO: add_ntp_no_minpoll:{"result":"error","errcode":1492066497,"errmsg":"NTP service address has already existed."}
+2020-05-06 15:48:39,372 - INFO: add_ntp_no_maxpoll:{"result":"error","errcode":1492066497,"errmsg":"NTP service address has already existed."}
+2020-05-06 15:48:39,396 - INFO: edit_ntp:success
+2020-05-06 15:48:39,424 - INFO: delete_ntp:success
